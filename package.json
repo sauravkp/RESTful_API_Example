@@ -1,0 +1,32 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravkp/RESTful_API_Example.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Example"
+  ],
+  "author": "Saurav Panda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravkp/RESTful_API_Example/issues"
+  },
+  "homepage": "https://github.com/sauravkp/RESTful_API_Example#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
